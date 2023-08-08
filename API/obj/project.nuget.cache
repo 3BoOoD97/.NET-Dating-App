@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frA3PBuz4o/bOhn/g4vO38A1o+uxD5iEToucZtZOzh+KvcAo7fBfiAGD4b+IrT67hL1VrAOi5DRCc05eDPKMVQ==",
+  "dgSpecHash": "rNNxeDz9QSRGbFRnkpck2Uqy4/m6EYJ9pp289hae8QO/3RyDQt0phEbdGTFBmfSx3+XYgvumq96yPisWdkA5Ww==",
   "success": true,
-  "projectFilePath": "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gg\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gg\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
