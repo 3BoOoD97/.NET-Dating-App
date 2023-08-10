@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\API.csproj": {}
+    "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\API.csproj": {
+    "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\API.csproj",
+        "projectUniqueName": "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\API.csproj",
+        "projectPath": "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\gg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\api\\obj\\",
+        "outputPath": "c:\\Users\\gg\\Desktop\\GitHub\\.NET-Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gg\\AppData\\Roaming\\NuGet\\NuGet.Config"
